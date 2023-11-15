@@ -30,7 +30,7 @@ This repository was created for:
 
 If you are more interested in stable releases of my add-ons:
 
-<https://github.com/brenner-tobias/ha-addons>
+<https://github.com/raizyr/ha-addons>
 
 ## Installation
 
@@ -41,7 +41,7 @@ a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/brenner-tobias/ha-addons-edge
+https://github.com/raizyr/ha-addons-edge
 ```
 
 ## Add-ons provided by this repository
@@ -101,19 +101,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/tree/8ee14e3
-[addon-doc-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/blob/8ee14e3/README.md
-[cloudflared-issue]: https://github.com/brenner-tobias/addon-cloudflared/issues
+[addon-cloudflared]: https://github.com/raizyr/addon-cloudflared/tree/8ee14e3
+[addon-doc-cloudflared]: https://github.com/raizyr/addon-cloudflared/blob/8ee14e3/README.md
+[cloudflared-issue]: https://github.com/raizyr/addon-cloudflared/issues
 [cloudflared-version-shield]: https://img.shields.io/badge/version-8ee14e3-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [cloudflared-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[gitlabci-shield]: https://gitlab.com/brenner-tobias/ha-addons-edge/badges/master/pipeline.svg
-[gitlabci]: https://gitlab.com/brenner-tobias/ha-addons-edge/pipelines
-[issue]: https://github.com/brenner-tobias/ha-addons-edge/issues
-[license-shield]: https://img.shields.io/github/license/brenner-tobias/ha-addons-edge.svg
+[issue]: https://github.com/raizyr/ha-addons-edge/issues
+[license-shield]: https://img.shields.io/github/license/raizyr/ha-addons-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html

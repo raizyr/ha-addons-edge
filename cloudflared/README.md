@@ -25,7 +25,7 @@ Please make sure to be compliant with the
 [Cloudflare Self-Serve Subscription Agreement][cloudflare-sssa] when using this
 add-on.
 
-## WARNING! THIS IS AN EDGE VERSION!
+## WARNING! THIS IS AN EDGE VERSION
 
 This Home Assistant Add-ons repository contains edge builds of add-ons.
 Edge builds add-ons are based upon the latest development version.
@@ -42,12 +42,11 @@ This repository was created for:
 
 If you are more interested in stable releases of my add-ons:
 
-<https://github.com/brenner-tobias/ha-addons>
+<https://github.com/raizyr/ha-addons>
 
 [cloudflare-sssa]: https://www.cloudflare.com/terms/
-[domainarticle]: https://www.linkedin.com/pulse/what-do-domain-name-how-get-one-free-tobias-brenner?trk=public_post-content_share-article
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[releases-shield]: https://img.shields.io/github/v/release/brenner-tobias/addon-cloudflared?include_prereleases
-[releases]: https://github.com/brenner-tobias/addon-cloudflared/releases
-[wiki]: https://github.com/brenner-tobias/addon-cloudflared/wiki/How-tos
+[releases-shield]: https://img.shields.io/github/v/release/raizyr/addon-cloudflared?include_prereleases
+[releases]: https://github.com/raizyr/addon-cloudflared/releases
+[wiki]: https://github.com/raizyr/addon-cloudflared/wiki/How-tos
